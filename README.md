@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a junior developer at FKT42, working with php Laravel and Vue.js
+Hello, I'm a junior full stack web developer at FKT42, working with php Laravel and Vue.js
 
 
 ## 🌐 Socials:
