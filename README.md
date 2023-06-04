@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">Im a 22 year old software developer from Germany<br><br>- 🔭 I’m working as fullstack developer at FKT42<br>- 📚 I'm currently learning Flutter, Rust and Go<br>- ⚡ I currently work on Nebulite, a lightweight FOSS zero-cost CMS</p>
+<p align="center">Im a 22 year old software developer from Germany<br><br>- 🔭 I’m working as fullstack developer at FKT42<br>- 📚 I'm currently learning Flutter, Rust and Go<br>- ⚡ In my free time I'm working on Nebulite, a lightweight FOSS zero-cost CMS</p>
 
 ###
 
