@@ -22,7 +22,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jan-eckerlein/jan-eckerlein/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
+  <img alt="snake" src="snake.svg" />
+</picture>
 
 ###
 
