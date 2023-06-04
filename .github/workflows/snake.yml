@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs:
+          outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
