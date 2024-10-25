@@ -22,15 +22,6 @@
 
 ###
 
-<picture>
-  
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jan-eckerlein/jan-eckerlein/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jan-eckerlein/jan-eckerlein/output/snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/jan-eckerlein/jan-eckerlein/output/snake.svg" />
-</picture>
-
-###
-
 <h3 align="center">🛠 Tools that pay for my daily coffee</h3>
 
 ###
